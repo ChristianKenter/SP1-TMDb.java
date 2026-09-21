@@ -1,3 +1,5 @@
+**Link til youtube video:** https://youtu.be/mCe7OTR2BiY
+
 US:2 (Setup TMDb API key):
 * As a developer
 * I want to setup the TMDb API key
